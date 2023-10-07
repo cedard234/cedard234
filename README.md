@@ -17,6 +17,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedard234&hide=javascript,html,css,jupyter%20notebook&layout=compact&card_width=320" />
 </a>
 
+***
+<br>
 
 My GPG public key fingerprint is `33D4 CF2D EC14 245D 34D7 5AD1 46D8 0BA7 894F 9EFB`. You can check out the public key [here](https://pgp.mit.edu/pks/lookup?op=get&fingerprint=on&search=0x46D80BA7894F9EFB).
 
