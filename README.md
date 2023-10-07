@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hellooooo!👋 I am Cedar. Nice to have you here.
 
-<!--
-**cedard234/cedard234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing my PhD @ UC Berkeley.
+- 🌱 I’m currently learning integrated circuit design.
+- 💬 Ask me about integrated circuits (analog preferred), classical music or history.
+- 📫 How to reach me: wangdi1310@gmail.com
+- ⚡ Fun fact: My pinyin English name is far easier to pronounce/write than my Chinese name.
+<center>
+[![Cedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedard234)](https://github.com/anuraghazra/github-readme-stats)
+<\center>
 
-Here are some ideas to get you started:
+My GPG public key fingerprint is `33D4 CF2D EC14 245D 34D7  5AD1 46D8 0BA7 894F 9EFB`. You can check out the public key [here](https://pgp.mit.edu/pks/lookup?op=get&fingerprint=on&search=0x46D80BA7894F9EFB).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [blog](https://blog.cedard.me/) for my routines and random thoughts.
