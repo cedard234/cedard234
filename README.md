@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently pursuing my PhD @ UC Berkeley.
 - 🌱 I’m currently learning integrated circuit design.
-- 💬 Ask me about integrated circuits (analog preferred), classical music or history.
+- 💬 Ask me about integrated circuits, classical music or history.
 - 📫 How to reach me: wangdi1310@gmail.com
 - ⚡ Fun fact: My pinyin English name is far easier to pronounce/write than my Chinese name.
 
