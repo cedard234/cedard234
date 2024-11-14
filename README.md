@@ -1,14 +1,14 @@
 ### Hellooooo!👋 I am Cedar. Nice to have you here.
 
 - 🔭 I’m currently pursuing my PhD @ UC Berkeley.
-- 🌱 I’m currently learning integrated circuit design.
+- 🌱 I’m currently studying integrated circuit design.
 - 💬 Ask me about integrated circuits, classical music or history.
 - 📫 How to reach me: wangdi1310@gmail.com
 - ⚡ Fun fact: My pinyin English name is far easier to pronounce/write than my Chinese name.
 
 My GPG public key fingerprint is `33D4 CF2D EC14 245D 34D7 5AD1 46D8 0BA7 894F 9EFB`. You can check out the public key [here](https://pgp.mit.edu/pks/lookup?op=get&fingerprint=on&search=0x46D80BA7894F9EFB).
 
-Check out my [blog](https://blog.cedard.me/) for my routines and random thoughts.
+Check out my [blog](https://blog.cedard.top/) for my routines and random thoughts.
 
 ***
 
